@@ -6,7 +6,7 @@ This repository contains basic C programs.
 - Multiplication Table Program
 
 ## Description:
-Takes user input and prints multiplication table from 1 to 10.
+Takes a number as input from the user and prints its multiplication table from 1 to 10.
 
 ## How to Run:
 Compile:
